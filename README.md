@@ -1,2 +1,2 @@
-# Class-25
-The Angry Bird Game without the slingshot, just the characters and blocks. 
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
